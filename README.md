@@ -8,7 +8,7 @@ Google表單
 - 統計課程滿意度長條圖
 - 統計軟體熟悉度,群組長條圖
 - 統計興趣抓取5個以上的，做成長條圖
-- 最後儲存成 'google表單統計.png'
+- 最後儲存成 'google表單分析.png'
 
 # 如何執行：
 確保已安裝必要套件： pip install pandas matplotlib numpy
