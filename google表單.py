@@ -124,5 +124,6 @@ for i in range(len(s6)):
 
 
 plt.tight_layout()
-plt.show()
+
 plt.savefig("google表單分析.png")
+plt.show()
